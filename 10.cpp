@@ -2,6 +2,7 @@
 #include <cmath> 
 #include "10.h" 
 //#include "log.cpp" 
+//opens1
  
 
 int main() { 
