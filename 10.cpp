@@ -1,8 +1,7 @@
 #include <iostream> 
 #include <cmath> 
 #include "10.h" 
-//#include "log.cpp" 
-//commit
+#include "log.cpp" 
 
 
 int main() { 
